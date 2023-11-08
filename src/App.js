@@ -5,6 +5,7 @@ import JokeComponent from './components/JokeComponent';
 import StateComponent from './components/StateComponent';
 import RouteComponent from './components/RouteComponent';
 import StateDemoComponent from './StateDemo';
+import CounterComponent from './CounterDemo';
 
 function App() {
   return (
@@ -12,7 +13,7 @@ function App() {
       <div className="App">
         <header className="App-header">
           
-            <StateDemoComponent />
+        <JokeComponent/>
 
 
         </header>
